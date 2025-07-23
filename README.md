@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Hanafi Satriyo Utomo Setiawan 
+**NRP**: 5025211195
+**Judul TA**: PENERAPAN METODE USER-CENTERED DESIGN DALAM PENGEMBANGAN ANTARMUKA PENGGUNA TRAINING MANAGEMENT SYSTEM RESPONSIF STUDI KASUS TEKNO SAINS ACADEMY - ITS
+**Dosen Pembimbing**: Siska Arifiani, S.Kom., M.Kom.
+**Ko-pembimbing**: inda Mughniy Rahayu
 
 ---
 
@@ -71,5 +71,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
+- Penulis: [satriyo.stwn@gmail.com]
 - Pembimbing Utama: [email@pembimbing]
