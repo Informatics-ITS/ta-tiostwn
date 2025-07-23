@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: Hanafi Satriyo Utomo Setiawan 
-**NRP**: 5025211195
-**Judul TA**: PENERAPAN METODE USER-CENTERED DESIGN DALAM PENGEMBANGAN ANTARMUKA PENGGUNA TRAINING MANAGEMENT SYSTEM RESPONSIF STUDI KASUS TEKNO SAINS ACADEMY - ITS
-**Dosen Pembimbing**: Siska Arifiani, S.Kom., M.Kom.
-**Ko-pembimbing**: inda Mughniy Rahayu
+**Nama Mahasiswa**: Hanafi Satriyo Utomo Setiawan<br/> 
+**NRP**: 5025211195<br/>
+**Judul TA**: PENERAPAN METODE USER-CENTERED DESIGN DALAM PENGEMBANGAN ANTARMUKA PENGGUNA TRAINING MANAGEMENT SYSTEM RESPONSIF STUDI KASUS TEKNO SAINS ACADEMY - ITS<br/>
+**Dosen Pembimbing**: Siska Arifiani, S.Kom., M.Kom.<br/>
+**Ko-pembimbing**: Anninda Mughniy Rahayu
 
 ---
 
